@@ -1,0 +1,11 @@
+{
+  "Description": "Some experiments with AWS Lambda",
+  "Resources": {
+    "SayHelloLambda": {
+      "Type": "AWS::Serverless::Function",
+      "Properties": {
+        "Handler": "it.solari.aws.lambda.SayHelloLambda"
+      }
+    }
+  }
+}
