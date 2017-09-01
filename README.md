@@ -1,0 +1,1 @@
+# solari-aws-training
